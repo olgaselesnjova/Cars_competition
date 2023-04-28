@@ -1,6 +1,6 @@
 # Car price prediction 
-Competition on [Kaggle]([url](https://www.kaggle.com/competitions/gsom-23sm1-ml-hometask-1/overview))  
-Datset: [100,000 UK Used Car Data set]([url](https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes)) 
+**Competition on Kaggle:** https://www.kaggle.com/competitions/gsom-23sm1-ml-hometask-1/overview  
+**Datset:** 100,000 UK Used Car Data set https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes 
 
 
 Dataset description: 
